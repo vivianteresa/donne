@@ -1,7 +1,7 @@
 {
   "id": "ec",
   "documentName": "Donne Letter",
-  "iiifManifest": "/public/donne/iiif/manifest.json",
+  "iiifManifest": "/donne/iiif/manifest.json",
   "transcriptionTypes": {
     "transcription": "transcription"
   },
