@@ -3,7 +3,7 @@
   "documentName": "Donne Letter",
   "iiifManifest": "/donne/donne/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "transcription"
+    "donneletter": "transcription"
   },
   "viewerUrl": "/donne"
 }
