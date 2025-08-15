@@ -1,9 +1,9 @@
 {
   "id": "ec",
-  "documentName": "<DOCUMENT_NAME>",
-  "iiifManifest": "/<BASE_DIR>/<DOCUMENT_ID>/iiif/manifest.json",
+  "documentName": "Donne Letter",
+  "iiifManifest": "/public/donne/iiif/manifest.json",
   "transcriptionTypes": {
-    "transcription": "Transcription"
+    "transcription": "transcription"
   },
-  "viewerUrl": "/<BASE_DIR>"
+  "viewerUrl": "/donne"
 }
