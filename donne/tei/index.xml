@@ -1,0 +1,26 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader xml:id="header">
+		<fileDesc>
+			<titleStmt>
+				<title>folio 1 recto</title>
+			</titleStmt>
+			<publicationStmt>
+				<p/>
+			</publicationStmt>
+			<sourceDesc>
+				<p/>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<facsimile sameAs="https://digitalcollections.folger.edu/node/107146/manifest-single" xml:id="facs-1">
+		<surface xml:id="f000" ulx="0" uly="0" lrx="3936" lry="4860" sameAs="https://digitalcollections.folger.edu/node/107146/canvas/410997">
+			<label>folio 1 recto</label>
+			<graphic mimeType="application/json" url="https://digitalcollections.folger.edu/cantaloupe/iiif/2/https%3A%2F%2Fdigitalcollections.folger.edu%2F_flysystem%2Ffedora%2F2023-08%2F005935.tif"/>
+		</surface>
+	</facsimile>
+	<sourceDoc xml:id="Donneletter">
+		<surface>
+			<line>L.b.542 26 ? Sir ? The busines of thys churche, and all other busines which con- ? cerne me in thys town determine thys weeke so that I ? might be at my liberty to go to do the duty to my ? churche in the Cuntry, next weeke, but for the expec- ? tation of that 100l, , which ^you are to pay some days after that. ? If therfore yt stand not with your conveniency to pay yt before, ? because I presume yow wyll be gone out of town, before that ? ?11th of July, I ame bold to intreat yow to let me know, by whose ? hands yt shall be payd me then. for besides that yt were a ? great disappointment of my necessary service in the Cuntry, ? to be stayd any longer in thys town, so not to receyve yt at that ? day, wyll put me to so great a trouble, as to make my poore ? wyll anew, and to subtract from my other children, theyr ? part of thys 100l. . Therfore I humbly intreat yow, that I may ? hear from yow, before your goinge out of town, and rest ? your poore sonne in law, and ? humble servant in Christ Iesus ? Iohn Donne ? ? ? At Pauls house. ? ?22 Iune 1629.?</line>
+		</surface>
+	</sourceDoc>
+</TEI>
